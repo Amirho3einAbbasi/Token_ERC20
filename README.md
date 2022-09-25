@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# ERC20 Token Hardhat Project
 
 This project is the ERC20 token on the Mumbai Scan network that i programmed .
 
