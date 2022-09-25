@@ -15,9 +15,9 @@ npx hardhat run scripts/deploy.js
 ```
 # SoliArt
 # Token_ERC20
-#solidity
+#Solidity
 #ERC20
-#Blockchain
+#Token
 
 
 
