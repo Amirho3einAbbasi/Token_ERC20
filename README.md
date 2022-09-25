@@ -13,3 +13,5 @@ npx hardhat run scripts/deploy.js
 ```
 # SoliArt
 # Token_ERC20
+
+![Screenshot from 2022-09-25 09-52-01](https://user-images.githubusercontent.com/110217799/192131215-74ea11ed-e9fb-4042-aa12-ea76febd02b8.png)
