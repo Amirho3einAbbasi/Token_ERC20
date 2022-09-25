@@ -15,3 +15,7 @@ npx hardhat run scripts/deploy.js
 # Token_ERC20
 
 ![Screenshot from 2022-09-25 09-52-01](https://user-images.githubusercontent.com/110217799/192131215-74ea11ed-e9fb-4042-aa12-ea76febd02b8.png)
+
+Token-ERC20 imported to the MetaMask :
+
+![Screenshot from 2022-09-25 09-59-30](https://user-images.githubusercontent.com/110217799/192131365-90f0e284-657a-427d-a5e6-8b0dcd3d3aa0.png)
